@@ -1,0 +1,15 @@
+YT: Paddi's Tech Stuff
+Please Like and Subscribe
+ 
+sudo apt update -y
+sudo apt install wget -y 
+git clone https://github.com/OnlineHacKing/Cloud_Linux_RDP.git
+cd Cloud_Linux_RDP
+chmod +x *
+bash Linux
+ 
+Key : abcdb9dbe490b5f294ecffe10d337cba
+
+https://www.onlinehacking.org/cloud-linux-rdp-key/
+
+https://onlinehacking.org/wp-content/uploads/RDP.html
